@@ -30,3 +30,11 @@ Here are some ideas to get you started:
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Martin Lona </h1>
 <h3 align="center"> Programming Technician </h3>
+
+<p align="center">
+  <em>
+    Hello, I am Muhammad Faizan Haidar a <b>2018</b> undergraduate from <a href="https://qau.edu.pk/"> <b>Quaid-i-Azam University</b>, Pakistan Islamabad (" Quaidian Once Quaidian Forever ")</a>. <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>WordPress Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop. 
+  </em> 
+  <br>
