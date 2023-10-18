@@ -38,3 +38,8 @@ Here are some ideas to get you started:
     with <b>development</b> and always looking to find new solutions for <b> programs and developments. 
   </em> 
   <br>
+ </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
+<br><br>
