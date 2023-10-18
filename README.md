@@ -25,6 +25,6 @@ Here are some ideas to get you started:
  <p align="center">
   <img src="https://img.shields.io/badge/Focus-WordPress-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Argentina-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Urdu-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
 </p>
 <hr>
